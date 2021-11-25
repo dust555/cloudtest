@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test b1
-=======
-test b2
->>>>>>> b2
+test b1asdfasdf
